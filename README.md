@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Islam%20Bakar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&width=100%" />
@@ -25,54 +26,111 @@
 
 > *"البرمجيات الاستثنائية ليست تلك التي تعج بالتعقيدات في الخلفية، بل تلك التي تمنح المستخدم شعوراً بالسرعة الفائقة، الأمان المطلق، والبساطة التي تلامس الكمال."*
 
-* 🔭 **In the Workshop:** Crafting ultra-fast, zero-latency client-side web utilities and precision Micro-SaaS products.
-* 💡 **Core DNA:** *Obsessive Simplicity | Instant Feedback | Zero Server Overhead.* Every millisecond of interaction is designed with intent.
-* 🎯 **Active Mission:** Building an open-source ecosystem of high-utility web tools for developers, creators, and everyday security-conscious users.
+* 🔭 **In the Workshop:** Crafting ultra-fast web applications, client-side utilities, and practical digital products.
+* 💡 **Core DNA:** *Obsessive Simplicity | Instant Feedback | Practical Engineering.*
+* 🎯 **Active Mission:** Building an ecosystem of useful digital tools for education, security, productivity, and everyday problems.
 * 🇩🇿 **Command Center:** Algeria | Building globally, impacting infinitely.
 
 ---
 
 ## 🛠️ The Tech Arsenal | الترسانة التقنية والمهارات
 
-| Domain | Mastered Technologies & Power Tools |
+| Domain | Technologies & Tools |
 | :--- | :--- |
-| **Frontend Engineering** | HTML5, CSS3, Vanilla JavaScript (ES6+), High-Precision Responsive Micro-UI |
-| **Programming & Logic** | Python, Algorithmic Problem Solving, Prompt Engineering & Automation |
-| **Infrastructure & Cloud** | Git, GitHub Pages, Netlify Continuous Deployment, Client-Side Architecture |
-| **Workflow & Craftsmanship** | VS Code Power-Setup, Clean Modular Code, Minimalist UI/UX Principles |
+| **Frontend Engineering** | HTML5, CSS3, Vanilla JavaScript (ES6+), Responsive Web Design |
+| **Programming & Logic** | Python, Algorithmic Problem Solving, Prompt Engineering |
+| **Infrastructure & Cloud** | Git, GitHub, GitHub Pages, Netlify |
+| **Workflow & Craftsmanship** | VS Code, Modular Code, UI/UX Principles |
 
 ---
 
-## 🚀 Instant Live Demos | 🌟 جرب المواقع الآن (انقر للاطلاق الفوري)
+## 🚀 Instant Live Demos | 🌟 جرب مشاريعي الآن
 
 <p align="center">
-  <a href="https://secure-pass-generat.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🔥_LAUNCH_SECURE_PASS_GENERATOR_(v1)-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7&color=111827" alt="v1 Live Demo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://secure-password-generato.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_LAUNCH_ENTERPRISE_PASSWORD_GEN_(v2)-000000?style=for-the-badge&logo=netlify&logoColor=FF4757&color=111827" alt="v2 Live Demo" />
-  </a>
+
+<a href="https://secure-pass-generat.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🔐_SECURE_PASS_GENERATOR_(v1)-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Secure Pass Generator v1"/>
+</a>
+
+<a href="https://secure-password-generato.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🛡️_SECURE_PASSWORD_GENERATOR_(v2)-111827?style=for-the-badge&logo=netlify&logoColor=FF4757" alt="Secure Password Generator v2"/>
+</a>
+
+<a href="https://image19image-code.github.io/math-gap-finder/" target="_blank">
+<img src="https://img.shields.io/badge/📐_MATH_GAP_FINDER-111827?style=for-the-badge&logo=github&logoColor=white" alt="Math Gap Finder"/>
+</a>
+
+<a href="https://image19image-code.github.io/ScamShield-AI/" target="_blank">
+<img src="https://img.shields.io/badge/🛡️_SCAMSHIELD_AI-111827?style=for-the-badge&logo=github&logoColor=white" alt="ScamShield AI"/>
+</a>
+
+<a href="https://image19image-code.github.io/triage-study-planner/" target="_blank">
+<img src="https://img.shields.io/badge/⚡_TRIAGE_STUDY_PLANNER-111827?style=for-the-badge&logo=github&logoColor=white" alt="Triage Study Planner"/>
+</a>
+
 </p>
 
 ---
 
-## 📌 Flagship Micro-SaaS Suite | منظومة الأدوات الرقمية الرائدة
+## 📌 Flagship Projects | المشاريع الرقمية الرئيسية
 
-> *أدوات ويب صُممت لمعايير عليا: تعمل بالكامل على جهازك (Client-Side)، بدون انتظار، وبدون أي تعقيد:*
+> *Five independently developed web applications designed to solve practical problems across different domains.*
 
-| Tool Name | Core Power & Engineering Value | Access Link |
-| :--- | :--- | :--- |
-| **🔐 Secure Pass Generator (v1)** | High-speed, instant client-side cryptographic utility delivering customizable high-entropy security. | **<a href="https://secure-pass-generat.netlify.app/" target="_blank">Open v1 ↗</a>** |
-| **🛡️ Secure Password Generator (v2)** | Enterprise-grade security suite featuring upgraded generation algorithms, tactile feedback, and supreme UX. | **<a href="https://secure-password-generato.netlify.app/" target="_blank">Open v2 ↗</a>** |
-| **⚡ [Coming Soon] JSON & Text Beautifier** | Instant, zero-latency client-side text formatting & validation utility. | *In Development* |
-| **🎯 [Coming Soon] Quick Color & QR Studio** | Lightweight aesthetic & QR generation suite for rapid daily workflows. | *In Development* |
+### 🔐 1. Secure Pass Generator (v1)
+
+A customizable password generation utility focused on security, simplicity, and instant client-side execution.
+
+- **Domain:** Cybersecurity & Privacy
+- **Architecture:** Client-Side
+- **Live Demo:** [Launch Secure Pass Generator ↗](https://secure-pass-generat.netlify.app/)
+
+### 🛡️ 2. Secure Password Generator (v2)
+
+An upgraded password generation experience with improved functionality, user interaction, and a refined interface.
+
+- **Domain:** Security & Digital Utilities
+- **Architecture:** Client-Side
+- **Live Demo:** [Launch Secure Password Generator ↗](https://secure-password-generato.netlify.app/)
+
+### 📐 3. Math Gap Finder
+
+An interactive mathematics diagnostic tool designed to identify missing prerequisite knowledge and help students discover the root causes of their learning gaps.
+
+- **Domain:** Education & EdTech
+- **Core Concept:** Prerequisite Knowledge Mapping
+- **Live Demo:** [Launch Math Gap Finder ↗](https://image19image-code.github.io/math-gap-finder/)
+
+### 🛡️ 4. ScamShield AI
+
+A cybersecurity-focused project designed to help users recognize and assess potential online scams.
+
+- **Domain:** Cybersecurity
+- **Core Concept:** Scam Awareness & Risk Assessment
+- **Live Demo:** [Launch ScamShield AI ↗](https://image19image-code.github.io/ScamShield-AI/)
+
+### ⚡ 5. Triage Study Planner
+
+A reality-based study planning system that checks whether a student's workload fits their available time. It helps students make practical decisions: Protect, Reduce, or Defer.
+
+- **Domain:** Productivity & EdTech
+- **Core Concept:** Feasibility-First Scheduling
+- **Live Demo:** [Launch Triage Study Planner ↗](https://image19image-code.github.io/triage-study-planner/)
+
 ---
+
+## 💡 Engineering Philosophy | فلسفة التطوير
+
+* **Practical Problem Solving:** Every project starts with a real problem that deserves a useful solution.
+* **Performance:** Prioritizing responsive interfaces and efficient execution.
+* **Privacy-First:** Using client-side architecture where appropriate to minimize unnecessary data exposure.
+* **Simplicity:** Building interfaces that help users accomplish tasks without unnecessary complexity.
+* **Independent Development:** Turning ideas into functional, publicly accessible web applications.
+
 ---
 
 ## 🌟 Global Launch & Achievements | الإنجازات والإطلاقات العالمية
 
-> *محطة فارقة في رحلة التطوير المستقل: توثيق رسمي لإطلاق أول منتج رقمي على المنصات العالمية.*
+> *A milestone in my independent development journey: officially launching a digital product on a global product discovery platform.*
 
 <div align="center">
 
@@ -84,29 +142,21 @@
   <img src="https://img.shields.io/badge/STATUS-SUCCESSFULLY_ARCHIVED-success?style=flat-square&logo=git" alt="Status" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PLATFORM-PRODUCT_HUNT-FF6154?style=flat-square&logo=product-hunt&logoColor=white" alt="Platform" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IMPACT-GLOBAL_REACH-blueviolet?style=flat-square" alt="Reach" />
 </p>
 
-*رابط موثق دائم يشهد على أول خطوة حقيقية في عالم بناء المنتجات البرمجية المستقلة (Indie Hacking).*
+*An important step toward building and launching independent software products.*
 
 </div>
----
-
-
-## 💎 Why These Tools Feel Different | لماذا يعشق المستخدمون هذه الأدوات؟
-
-* **Zero-Latency Execution:** لا تحميل خوادم ولا انتظار؛ كل شيء يتم فوراً على متصفحك.
-* **Privacy-First Architecture:** بياناتك وكلمات مرورك لا تغادر جهازك أبداً (100% Client-Side).
-* **Obsessive Attention to Detail:** تصميم نظيف يركز على تجربة استخدام (UX) تمنع التشتت وتنجز المهمة بنقرة واحدة.
 
 ---
 
 ## 🤝 Let's Collaborate & Build | دعنا نصنع شيئاً عظيماً معاً
 
-هل تواجه مشكلة يومية في تصفحك وتتمنى لو توجد لها أداة ويب خفيفة وسريعة؟ 
-* 📬 **اقتراح أداة:** افتح `Issue` في هذا المستودع أو شاركني فكرتك.
-* ⭐ **الدعم المستمر:** إذا أفادتك هذه الأدوات، فإن وضع **Star ⭐** على المستودعات هو أفضل دعم لمواصلة التطوير.
+Have an idea for a useful digital tool or a problem that deserves a better solution?
+
+* 📬 **Suggest a Project:** Open an Issue in one of my repositories.
+* ⭐ **Support:** If any of my projects helps you, consider giving its repository a Star.
+* 🚀 **Explore:** Try the five live applications and share your feedback.
 
 ---
 
@@ -117,3 +167,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
 </div>
+
