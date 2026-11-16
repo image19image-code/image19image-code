@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Islam%20Bakar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&width=100%" />
 
@@ -13,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=image19image-code&style=for-the-badge&color=blueviolet&label=GLOBAL+VISITORS" alt="Visitor Count" />
-  <img src="https://img.shields.io/badge/BUILD_STATUS-ACTIVE_%26_EVOLVING-success?style=for-the-badge&logo=git" alt="Status" />
-  <img src="https://img.shields.io/badge/PHILOSOPHY-ZERO_LATENCY_&_OBSESSIVE_UI-critical?style=for-the-badge" alt="Philosophy" />
+  <img src="https://komarev.com/ghpvc/?username=image19image-code&style=for-the-badge&color=blueviolet&label=GLOBAL+VISITORS" alt="Visitor Count">
+  <img src="https://img.shields.io/badge/BUILD_STATUS-ACTIVE_%26_EVOLVING-success?style=for-the-badge&logo=git" alt="Status">
+  <img src="https://img.shields.io/badge/PHILOSOPHY-ZERO_LATENCY_&_OBSESSIVE_UI-critical?style=for-the-badge" alt="Philosophy">
 </p>
 
 </div>
@@ -56,16 +55,16 @@
 <img src="https://img.shields.io/badge/🛡️_SECURE_PASSWORD_GENERATOR_(v2)-111827?style=for-the-badge&logo=netlify&logoColor=FF4757" alt="Secure Password Generator v2"/>
 </a>
 
-<a href="https://image19image-code.github.io/math-gap-finder/" target="_blank">
-<img src="https://img.shields.io/badge/📐_MATH_GAP_FINDER-111827?style=for-the-badge&logo=github&logoColor=white" alt="Math Gap Finder"/>
+<a href="https://math-gap-finder.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/📐_MATH_GAP_FINDER-111827?style=for-the-badge&logo=netlify&logoColor=white" alt="Math Gap Finder"/>
 </a>
 
-<a href="https://image19image-code.github.io/ScamShield-AI/" target="_blank">
-<img src="https://img.shields.io/badge/🛡️_SCAMSHIELD_AI-111827?style=for-the-badge&logo=github&logoColor=white" alt="ScamShield AI"/>
+<a href="https://scamshield-ai-ai.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🛡️_SCAMSHIELD_AI-111827?style=for-the-badge&logo=netlify&logoColor=white" alt="ScamShield AI"/>
 </a>
 
-<a href="https://image19image-code.github.io/triage-study-planner/" target="_blank">
-<img src="https://img.shields.io/badge/⚡_TRIAGE_STUDY_PLANNER-111827?style=for-the-badge&logo=github&logoColor=white" alt="Triage Study Planner"/>
+<a href="https://triage-study-planner.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/⚡_TRIAGE_STUDY_PLANNER-111827?style=for-the-badge&logo=netlify&logoColor=white" alt="Triage Study Planner"/>
 </a>
 
 </p>
@@ -98,7 +97,7 @@ An interactive mathematics diagnostic tool designed to identify missing prerequi
 
 - **Domain:** Education & EdTech
 - **Core Concept:** Prerequisite Knowledge Mapping
-- **Live Demo:** [Launch Math Gap Finder ↗](https://image19image-code.github.io/math-gap-finder/)
+- **Live Demo:** [Launch Math Gap Finder ↗](https://math-gap-finder.netlify.app/)
 
 ### 🛡️ 4. ScamShield AI
 
@@ -106,7 +105,7 @@ A cybersecurity-focused project designed to help users recognize and assess pote
 
 - **Domain:** Cybersecurity
 - **Core Concept:** Scam Awareness & Risk Assessment
-- **Live Demo:** [Launch ScamShield AI ↗](https://image19image-code.github.io/ScamShield-AI/)
+- **Live Demo:** [Launch ScamShield AI ↗](https://scamshield-ai-ai.netlify.app/)
 
 ### ⚡ 5. Triage Study Planner
 
@@ -114,7 +113,7 @@ A reality-based study planning system that checks whether a student's workload f
 
 - **Domain:** Productivity & EdTech
 - **Core Concept:** Feasibility-First Scheduling
-- **Live Demo:** [Launch Triage Study Planner ↗](https://image19image-code.github.io/triage-study-planner/)
+- **Live Demo:** [Launch Triage Study Planner ↗](https://triage-study-planner.netlify.app/)
 
 ---
 
@@ -167,4 +166,3 @@ Have an idea for a useful digital tool or a problem that deserves a better solut
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
 </div>
-
